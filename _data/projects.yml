@@ -2,15 +2,26 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: A Computer Vision Based Approach for Automated Traffic Management as a Smart City Solution
+  #role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
+  url: "https://github.com/shubhi/automated-traffic-management"
+  description: Proposes the use of adaptable lanes dividers for traffic management using real time video analysis. Uses image processing and computer visions techniques for vehicle speed, density calculation and road detection.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Automated Car Damage Assessment
+  #role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
+  url: "https://github.com/shubhi/car-damage-assessment"
+  description: Using convolutional neural networks, the model is capable of validating specifics on car damage from user submitted images.
+
+- project: Visual Question Answering
+  #role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
+  url: "https://github.com/shubhi/visual-question-answering"
+  description: Application of Natural Language Processing in Computer Vision. Uses the easy-vqa dataset to train a VQA model that combines image and text features to answer open-ended questions.
+
+- project: Mosaic Satellite Image Stitching
+  #role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
+  url: "https://github.com/shubhi/satellite-image-stitching"
+  description: Application of Big Data in image processing. Using Apache Hadoop MapReduce with OpenCV for stitching of observatory tile images for object detection and recognition.

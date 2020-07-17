@@ -1,15 +1,20 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Next Tech Labs
+  role: Researcher and Mentor
+  year: Feb, 2018 &mdash; Present
+  url: https://nextech.io/home
+  summary: Mentored members and associates in the fields of Computer Vision, Automation, IoT and Embedded Systems. Lead multiple projects and research involving vision and human interaction.
 
+- organization: Google Developer's Group Chennai
+  role: Member
+  year: Feb, 2020 &mdash; Present
+  url: https://gdgchennai.in/
+  #summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Beeclust Multi Robots Systems Lab
+  role: Associate Embedded Systems Researcher
+  year: Jan, 2018 &mdash; Feb, 2018
+  url: https://www.facebook.com/pg/Beeclustlab/about/?ref=page_internal
+  summary: Contributed on the main research project involving printing using swarm robotics technology. Assisted the corporate relations management division for the team.
